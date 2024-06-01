@@ -19,4 +19,4 @@ The last feature was Location best suited to drive vehicle with best Mileage. <b
 Using all the features available, We identified the best manufacturer company delivering the best mileage with the preferred location. We have used Decision Tree Algorithm. <br>
 ![logo](https://github.com/WhatIfAditya7/Used-Car-Value-Analysis/blob/main/7.png) <br>
 
-* With all the features we got statistically significant, we conclude that the final resale price depends on the Manufactuer, Mileage and Location of the vehicle.
+With all the features we got statistically significant, we conclude that the final resale price depends on the Manufactuer, Fuel Type, Mileage and Location of the vehicle.
